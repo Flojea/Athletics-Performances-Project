@@ -8,9 +8,9 @@ from email import encoders
 username = "athle.mois.pelletier@gmail.com"
 password = "Pelletouz"
 mail_from = "athle.mois.pelletier@gmail.com"
-mail_to = "jeandel.florian@gmail.com"
+mail_to = "athle.mois.pelletier@gmail.com"
 
-recipients = ['jeandel.florian@gmail.com'] 
+recipients = ['athle.mois.pelletier@gmail.com'] 
 emaillist = [elem.strip().split(',') for elem in recipients]
 msg = MIMEMultipart()
 msg['Subject'] = "Meilleures Performances en athlétisme sur les derniers 30 jours"
