@@ -1,0 +1,9 @@
+#Package needed#
+
+re
+urllib3
+datetime
+pandas as pd
+numpy as np
+json
+smtplib
