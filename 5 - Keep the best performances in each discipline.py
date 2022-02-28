@@ -153,6 +153,9 @@ df_mail.insert(0, 'Disciplines', first_column)
 #On suppirme la colonne Place
 del df_mail["Place"]
 
+#Modifier index pour qu'il commence à 1
+df_mail.index = range(1,len(df_mail)+1)
+
 #On a deux listes pour les courses donc on les assemble en une
 str_list_course.extend(str_list_course_bis)
 str_list_course_seuil.extend(str_list_course_seuil_bis)
@@ -172,6 +175,8 @@ df_seuil = pd.concat([df_courses,df_concours])
 #Reset Index
 df_seuil = reset_index_dataframe(df_seuil)
 
+#Modifier index pour qu'il commence à 1
+df_seuil.index = range(1,len(df_seuil)+1)
 
 
 
