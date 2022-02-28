@@ -27,9 +27,9 @@ def get_urls_calendar(nb_pages):
     first_link = 'https://www.worldathletics.org/competition/calendar-results?'
     urls_calendar.append(first_link)
     for i in range(100,nb_pages*100,100):
-        i=str(i)
+        i = str(i)
         off = 'offset='
-        url_calendar = first_link+off+i
+        url_calendar = first_link + off + i
         urls_calendar.append(url_calendar)
 
     return urls_calendar
