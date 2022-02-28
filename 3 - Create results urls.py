@@ -66,7 +66,7 @@ def get_urls_results_for_others_days(list_with_id):
         #Boucle pour avoir lien de tous les jours pour chaque compétition
         for j in range(2,number):
             j = str(j)
-            url_results = base_link+identity+days+j
+            url_results = base_link + identity + days + j
             urls_results.append(url_results)
             
     return urls_results
