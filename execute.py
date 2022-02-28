@@ -7,4 +7,4 @@ exec(requests.get('https://raw.githubusercontent.com/Flojea/TD-Programmation/mai
 exec(requests.get('https://raw.githubusercontent.com/Flojea/TD-Programmation/main/3 - Create results urls.py').text)
 exec(requests.get('https://raw.githubusercontent.com/Flojea/TD-Programmation/main/4 - Collect results for each competition.py.py').text)
 exec(requests.get('https://raw.githubusercontent.com/Flojea/TD-Programmation/main/5 - Keep the best performances in each discipline.py').text)
-exec(requests.get('https://raw.githubusercontent.com/Flojea/TD-Programmation/main/etape6.py').text)
+exec(requests.get('https://raw.githubusercontent.com/Flojea/TD-Programmation/main/6 - Send mail.py ').text)
