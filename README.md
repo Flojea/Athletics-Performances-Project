@@ -1,6 +1,8 @@
 # TITRE 
 
-Infos générale -> a qui ce s'addresse + a quoi ca sert + ce qu'on fait = paragraphe qui resume projet 
+Infos générale -> a quoi ca sert + ce qu'on fait = paragraphe qui resume projet 
+
+Ce projet s'addresse à toutes les personnes qui sont passionées par le sport, plus particulièrement l'athlétisme.
 
 # Pour commencer
 
@@ -42,5 +44,3 @@ Dites comment faire pour lancer votre projet
 
 
 Démarrage -> instruction / ce dont on a besoin pour execute -> requiremeent + copier et coller puis donner mail 
-
-ce qu'on obtinet à la fin
