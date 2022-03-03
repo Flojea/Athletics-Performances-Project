@@ -67,8 +67,12 @@ for discipline in str_list_course:
     #Convertir seuil de str à datetime
     seuil = datetime.datetime.strptime(seuil, '%S.%f')
 
-    #Autres probleme dans 400mH F -> supprimer quand Mark > 1:00.00 car peut pas transfo en float / car format datetime different et de la performance sera pas retenue dans tous les cas
+    #Probleme dans 400mH F -> supprimer quand Mark > 1:00.00 car peut pas transfo en float / car format datetime different et de la performance sera pas retenue dans tous les cas
     df_intermediaire = df_intermediaire[~df_intermediaire.Mark.str.contains(":")]
+    
+    #Probleme qui est survenu dans 60m haies -> un h à la fin de la performence donc on ne peut pas faire la transformation en float ensuite
+    #Lignes que l'on peut supprimer car les performances ne seront pas retenues
+    df_intermediaire = df_intermediaire[~df_intermediaire.Mark.str.contains("h")]
     
     #Reset index
     df_intermediaire = reset_index_dataframe(df_intermediaire)
