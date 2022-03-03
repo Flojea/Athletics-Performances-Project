@@ -38,8 +38,8 @@ Dites comment faire pour lancer votre projet
 # Auteurs 
 
 - Mohamed Badouch alias @MohamedBADOUCH
-- Kyllian James alias @Flojea
-- Florian Jeandel alias @kyllianj
+- Kyllian James alias @kyllianj
+- Florian Jeandel alias @FloJea
 
 
 
