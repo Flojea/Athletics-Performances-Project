@@ -24,7 +24,7 @@ def send_mail(adresse_mail):
                 </p>
                 </body>
                 </html>
-                """.format(df_mail.to_html(),df_seuil.to_html())
+                """.format(df_mail_index.to_html(),df_seuil_index.to_html())
                 
     part1 = MIMEText(html, 'html')
     msg.attach(part1)
