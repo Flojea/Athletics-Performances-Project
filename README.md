@@ -1,6 +1,6 @@
 # Mail récapitulatif des dernières meilleures performances d'athlétisme par discipline 
 
-Ce projet s'addresse à toutes les personnes qui sont passionées par le sport, plus particulièrement l'athlétisme.
+Ce projet s'adresse à toutes les personnes qui sont passionées par le sport, plus particulièrement l'athlétisme.
 
 Il consiste à faire du web scraping sur le site de l'Association Internationale des Fédérations d'Athlétisme (IAAF en anglais) afin de d'envoyer un mail récapitulatif des meilleures performances d'athlétisme, relativement à des seuils fixés, réalisées au cours des quatres dernières semaines écoulées. 
 
