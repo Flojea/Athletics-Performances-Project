@@ -2,7 +2,7 @@
 
 Ce projet s'adresse à toutes les personnes qui sont passionnées par le sport, plus particulièrement l'athlétisme.
 
-Il consiste à faire du web scraping sur le site de l'Association Internationale des Fédérations d'Athlétisme (IAAF en anglais) [https://worldathletics.org/competition/calendar-results?](IAAF) afin de d'envoyer un mail récapitulatif des meilleures performances d'athlétisme, relativement à des seuils fixés, réalisées au cours des quatre dernières semaines écoulées. 
+Il consiste à faire du web scraping sur le site de l'Association Internationale des Fédérations d'Athlétisme, (IAAF en anglais) [IAAF](https://worldathletics.org/competition/calendar-results?) afin de d'envoyer un mail récapitulatif des meilleures performances d'athlétisme, relativement à des seuils fixés, réalisées au cours des quatre dernières semaines écoulées. 
 
 Ce récapitulatif des performances est pratique pour se tenir informer des résultats récents notamment dans le cas où on a pas le temps de regarder toutes les compétitions, ni accès aux plateformes de diffusion, et aussi dans le cas où la compétition n'est pas diffusé.\
 Il peut aussi servir à avoir une idée des athlètes qui dominent une discipline et des athlètes en forme dernièrement sur chaque discipline.\
