@@ -42,7 +42,7 @@ def get_all_results(list_with_urls):
         #On enlève les lignes vides
         df1 = df1.dropna()
         
-        #On écupère le nom de toutes les épreuves qui se sont déroulées pendant la compétition 
+        #On récupère le nom de toutes les épreuves qui se sont déroulées pendant la compétition 
         list_epreuve = []
         for i in section:
             table = i.find_all('h2')
