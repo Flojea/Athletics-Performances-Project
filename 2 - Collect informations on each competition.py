@@ -85,4 +85,3 @@ filtered_df = reset_index_dataframe(filtered_df)
 
 #Recup liste la colonne id
 id_list = list(filtered_df['id'])
-id_list
