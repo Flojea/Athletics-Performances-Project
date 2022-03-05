@@ -27,7 +27,7 @@ Ensuite, il vous faut copier-coller dans une console python le code du fichier :
 Pour obtenir le résultat final de ce projet, il vous suffit de lancer le code que vous venez de copier-coller dans votre console python.\
 Il vous sera demandé de renseigner votre adresse mail dans la console python afin que la suite du code puisse s'exécuter.
 
-Maintenant, attendez quelques instants puis rendez vous sur votre boîte mail afin de consulter le mail intitulé : Meilleures Performances en athlétisme sur le dernier mois.\ 
+Maintenant, attendez quelques instants puis rendez vous sur votre boîte mail afin de consulter le mail intitulé : Meilleures Performances en athlétisme sur le dernier mois.\
 Puis, parcourez le contenu de ce mail.
 
 # Fabriqué avec
