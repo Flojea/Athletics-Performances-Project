@@ -15,7 +15,7 @@ def send_mail(adresse_mail):
             <head></head>
             <body>
             <p>
-                <br>Voici les meilleurs performances par épreuve en athlétisme sur les quatres dernières semaines :<br>
+                <br>Voici les meilleurs performances par épreuve en athlétisme sur les quatre dernières semaines :<br>
                 <br><br>
                 {0}
                 <br>NB : ci-dessous le tableau avec les seuils pris en compte pour effectuer le tableau ci-dessus :<br>
